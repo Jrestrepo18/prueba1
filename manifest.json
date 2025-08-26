@@ -2,7 +2,7 @@
 "name": "CleanTrack - Zonas de Empleado",
 "short_name": "CleanTrack",
 "description": "Aplicación para el registro de limpieza de zonas asignadas.",
-"start_url": "./mis-zonas-pro.html",
+"start_url": "./index.html",
 "display": "standalone",
 "background_color": "#f4f7fa",
 "theme_color": "#0A0E29",
@@ -13,7 +13,7 @@
     "type": "image/png"
     },
     {
-    "src": "/img/icon-circle-512x512.png",
+    "src": "./img/icon.png",
     "sizes": "512x512",
     "type": "image/png"
     }
